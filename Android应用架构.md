@@ -121,12 +121,12 @@ System.out.println(c); // 9 again
 
 ## 实践
 - 家长端架构
-![center](/Users/tangqifa/Downloads/jiazhang.png)
+![](https://github.com/tangqifa/ShareDoc/blob/master/jiazhang.png?raw=true)
 
 ---
 
 - 教师端架构
-![](/Users/tangqifa/Downloads/teacher-client.png)
+![](https://github.com/tangqifa/ShareDoc/blob/master/teacher-client.png?raw=true)
 ---
 
 ## 总结
